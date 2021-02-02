@@ -2,7 +2,7 @@ package fivthproj;
 
 public class fivthclass {
 	public static void main(String args []) {
-		System.out.println("this is the fivth class1");
+		System.out.println("this is the fivth class121");
 	}
 
 }
